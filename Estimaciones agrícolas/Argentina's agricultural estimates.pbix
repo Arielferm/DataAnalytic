@@ -1,4 +1,4 @@
-//Objetivo
+// Objetivo
 El objetivo del siguiente trabajo es analizar los datos disponibles del gobierno nacional, mediante MAGyP (Ministerio de Agricultura, Ganadería y Pesca), en la producción nacional de cultivos de girasol, aveno y mijo desde los primeros registros recuperados hasta el año más actual de actualización con sus correspondientes campañas, con el fin de comprender cual es la realidad nacional y provincial de dicha producción, haciendo énfasis en la cantidad de superficie sembrada y cosechada.
 A su vez, buscamos reconocer la provincia con mayor rendimiento por superficie tanto por cultivo como para tales periodos anuales.
 Como propósito final, nuestra función es asistir al gobierno nacional según MAGyP en el delineado de una estrategia para aumentar la tasa de rendimiento de las cosechas en dichos cultivos.
